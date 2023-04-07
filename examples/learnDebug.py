@@ -12,7 +12,13 @@ class Language:
         print("My name is " + self.name)
         
 
-languages = [Language("Python"), Language("JavaScript")]
+# languages = [Language("Python"), Language("JavaScript")]
 
-for language in languages:
-    language.message()
+# for language in languages:
+#     language.message()
+
+testCode = Language("Joe")
+
+testCode.message()
+
+Language("Tom").message()
