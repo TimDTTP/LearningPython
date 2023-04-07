@@ -1,4 +1,4 @@
 
-# Testing file
+# What is this?
 
-This is a test readme file
+This is a documentation of my progress through learning Python by solving LeetCode problems with said language.
