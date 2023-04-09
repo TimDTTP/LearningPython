@@ -35,10 +35,16 @@ Approach 1:
 - Strip current string to only alpha's
 - Loop through and add to second string in reverse
 - Compare; if true/false
+
+Approach 2:
+- Create a separate string variable
+- Strip current string to only alpha's
+- Loop through and add to a second string if not top of stack
+- If empty, return True
 """
 
-class ApproachA:
-    def isPalindrome(self, s: str) -> bool:
+class IsPalindrome:
+    def approachA(self, s: str) -> bool:
         self.s = s
         alphas = ""
         
@@ -64,7 +70,12 @@ class ApproachA:
         
         # compare if
         return (alphas == reverse)
+    
+    
+    def approachB(self, s: str) -> bool:
+        self.s = s
+        
             
-test = ApproachA().isPalindrome(s)
+test = IsPalindrome().approachA(s)
 
 print(test)
