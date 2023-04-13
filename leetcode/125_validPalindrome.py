@@ -8,7 +8,7 @@ Given string (s), return bool if it is palindrome or not.
 
 Edge cases
 - String is empty
-- String contains non-alpha characters
+- String contains only non-alpha characters
 """
 
 testA = {
@@ -26,7 +26,17 @@ testC = {
     "output": False
 }
 
-s = testC["input"]
+testD = {
+    "input": "             ",
+    "output": False
+}
+
+testE = {
+    "input": "()#&@(#*^&@(#*@&))",
+    "output": False
+}
+
+s = testE["input"]
 
 
 """
@@ -37,10 +47,11 @@ Approach 1:
 - Compare; if true/false
 
 Approach 2:
-- Create a separate string variable
 - Strip current string to only alpha's
-- Loop through and add to a second string if not top of stack
-- If empty, return True
+- If len == even...
+    - If reverse of 2nd half == 1st half, true; else false
+- If len == odd...
+    - Delete middle, and pass through len == even
 """
 
 class IsPalindrome:
@@ -55,8 +66,11 @@ class IsPalindrome:
         for characters in s:
             if characters.isalpha():
                 alphas += characters
-            else:
-                continue
+            else: continue
+
+        # catch empty string
+        if len(alphas) == 0:
+            return False
             
         # lowercase
         alphas = alphas.lower()
@@ -75,7 +89,37 @@ class IsPalindrome:
     def approachB(self, s: str) -> bool:
         self.s = s
         
+        # Get rid of whitespaces
+        s = s.replace(" ", "")
+
+        # Only alphas
+        alpha = ""
+        for characters in s:
+            if characters.isalpha():
+                alpha += characters
+            else: continue
+        
+        # catch empty string
+        if len(alpha) == 0:
+            return False
+        
+        # Lowercase
+        alpha = alpha.lower()
+
+        # If odd number of char
+        length = len(alpha)
+        if length % 2 != 0:
+            alpha = (
+                alpha[:(length // 2)] + alpha[((length // 2) + 1):]
+            )
+        
+        #If even number of char
+        if alpha == alpha[::-1]:
+            return True
+        else:
+            return False
+        
             
-test = IsPalindrome().approachA(s)
+test = IsPalindrome().approachB(s)
 
 print(test)
