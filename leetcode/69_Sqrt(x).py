@@ -23,6 +23,7 @@ class Solution:
         
 
         # declare lower bound of possible sqrt()
+        # upper bound is the previous iteration
         lower = x
         upper = x
         while (lower * lower) > x:
@@ -32,7 +33,6 @@ class Solution:
                 return lower
 
 
-        # upper bound is the previous iteration, AKA (lower * 2)
 
         # now continue narrowing down by dividing by 2
         while ((upper - lower) > 1):
