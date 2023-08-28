@@ -11,22 +11,54 @@ Edge cases:
 
 class Solution:
     def climbStairs(self, n: int) -> int:
-       # while loop to iterate
-        total = n    # Determines if step combinations are within limits
-        numComb = 1  # Total number of combinations, starts at 1 for the combination where all steps are 1
-        iter = 0     # Loop iteration counter
+        # Declare variables
+        numTwo = 0
+        numOne = n
+        totalCombos = 1 # first one is all 1 steps
 
-        # Loop continues of number of combinations are possible
-        # AKA; impossible to make it up 5 steps in 2 moves but possible with 3
-        while total == n:
-            iter += 1 # signifies only one '2' in the iteration
-            total = (iter * 2) + (n - iter)
-            
-            # if successful add to number of combinations
-            numComb += 
+        # While loop ( condition true ) -> number of combinations every time a '2' is added
+        while numOne > 1:
+            # iterator
+            iter = 1
+    
+            # Add a 2
+            numTwo += 1
+            numTwoFactorial = 0
+
+            # Remove a 1
+            numOne -= 2
+            numOneFactorial = 0
+
+            # keeps track of current factorial
+            temp = 0
+
+            # Calculate factorials
+            for i in range(n - iter):
+                temp += (i + 1) # because i starts at 0
+
+                if i == numOne:
+                    numOneFactorial = temp
+                if i == numTwo:
+                    numTwoFactorial = temp
+
+            # test
+            print("temp: " + str(temp))
+            print("num 1: " + str(numOneFactorial))
+            print("num 2: " + str(numTwoFactorial))
+
+            # Combination equation; total is the number of combinations with current set
+            total = temp / (numOneFactorial * numTwoFactorial)
+
+            print("total: " + str(total))
+
+            totalCombos += total
+
+            iter += 1
+
+
         
-        return numComb
+        return totalCombos
     
 
-print(Solution.climbStairs(Solution, 5))
+print(Solution.climbStairs(Solution, 3))
 
