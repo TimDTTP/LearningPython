@@ -1,0 +1,780 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Quest:Local Expertise - Wizard101 Wiki</title>
+<script type="550aa69a1f33a38f591ffa10-text/javascript">document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script type="550aa69a1f33a38f591ffa10-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgCanonicalNamespace": "Quest",
+    "wgCanonicalSpecialPageName": false,
+    "wgNamespaceNumber": 110,
+    "wgPageName": "Quest:Local_Expertise",
+    "wgTitle": "Local Expertise",
+    "wgCurRevisionId": 264662,
+    "wgRevisionId": 264662,
+    "wgArticleId": 84029,
+    "wgIsArticle": true,
+    "wgIsRedirect": false,
+    "wgAction": "view",
+    "wgUserName": null,
+    "wgUserGroups": [
+        "*"
+    ],
+    "wgCategories": [
+        "Quests",
+        "Khrysalis Quests",
+        "Khrysalis Storyline Quests",
+        "Tyrian Gorge Quests",
+        "Tyrian Gorge Storyline Quests",
+        "Storyline Quests"
+    ],
+    "wgBreakFrames": false,
+    "wgPageContentLanguage": "en",
+    "wgPageContentModel": "wikitext",
+    "wgSeparatorTransformTable": [
+        "",
+        ""
+    ],
+    "wgDigitTransformTable": [
+        "",
+        ""
+    ],
+    "wgDefaultDateFormat": "dmy",
+    "wgMonthNames": [
+        "",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+    ],
+    "wgMonthNamesShort": [
+        "",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+    ],
+    "wgRelevantPageName": "Quest:Local_Expertise",
+    "wgRelevantArticleId": 84029,
+    "wgRequestId": "76968ff409a7de0a4622a58e",
+    "wgIsProbablyEditable": false,
+    "wgRestrictionEdit": [],
+    "wgRestrictionMove": [],
+    "srfFilteredConfig": null,
+    "wgCollapsibleVectorEnabledModules": {
+        "collapsiblenav": true,
+        "experiments": true
+    },
+    "wgPageFormsAutocompleteValues": [],
+    "wgPageFormsAutocompleteOnAllChars": false,
+    "wgPageFormsFieldProperties": [],
+    "wgPageFormsCargoFields": [],
+    "wgPageFormsDependentFields": [],
+    "wgPageFormsCalendarValues": [],
+    "wgPageFormsCalendarParams": [],
+    "wgPageFormsCalendarHTML": null,
+    "wgPageFormsGridValues": [],
+    "wgPageFormsGridParams": [],
+    "wgPageFormsContLangYes": null,
+    "wgPageFormsContLangNo": null,
+    "wgPageFormsContLangMonths": [],
+    "wgPageFormsHeightForMinimizingInstances": 800,
+    "wgPageFormsShowOnSelect": [],
+    "wgPageFormsScriptPath": "/wiki/extensions/PageForms",
+    "edgValues": null,
+    "wgPageFormsEDSettings": null,
+    "wgAmericanDates": false,
+    "wgCategoryTreePageCategoryOptions": "{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}"
+} );mw.loader.state( {
+    "site.styles": "ready",
+    "noscript": "ready",
+    "user.styles": "ready",
+    "user.cssprefs": "ready",
+    "user": "ready",
+    "user.options": "loading",
+    "user.tokens": "loading",
+    "ext.smw.style": "ready",
+    "ext.smw.tooltip.styles": "ready",
+    "mediawiki.legacy.shared": "ready",
+    "mediawiki.legacy.commonPrint": "ready",
+    "mediawiki.sectionAnchor": "ready",
+    "mediawiki.skinning.interface": "ready",
+    "skins.vector.styles": "ready"
+} );});</script>
+<script type="550aa69a1f33a38f591ffa10-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.loader.implement( "user.options@0wwfj8s", function ( $, jQuery, require, module ) {
+mw.user.options.set( {
+    "variant": "en"
+} );
+} );});</script>
+<script type="550aa69a1f33a38f591ffa10-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.loader.implement( "user.tokens@1l2fshh", function ( $, jQuery, require, module ) {
+mw.user.tokens.set( {
+    "editToken": "+\\",
+    "patrolToken": "+\\",
+    "watchToken": "+\\",
+    "csrfToken": "+\\"
+} );/*@nomin*/;
+
+} );});</script>
+<script type="550aa69a1f33a38f591ffa10-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.smw.style","mediawiki.page.startup","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=true&amp;lang=en&amp;modules=ext.smw.style&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/wiki/load.php?debug=true&amp;lang=en&amp;modules=ext.smw.tooltip.styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/wiki/load.php?debug=true&amp;lang=en&amp;modules=mediawiki.legacy.shared&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/wiki/load.php?debug=true&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/wiki/load.php?debug=true&amp;lang=en&amp;modules=mediawiki.sectionAnchor&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/wiki/load.php?debug=true&amp;lang=en&amp;modules=mediawiki.skinning.interface&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/wiki/load.php?debug=true&amp;lang=en&amp;modules=skins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=true&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector" type="550aa69a1f33a38f591ffa10-text/javascript"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=true&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.28.3"/>
+<link rel="alternate" type="application/rdf+xml" title="Quest:Local Expertise" href="/wiki/index.php?title=Special:ExportRDF/Quest:Local_Expertise&amp;xmlmime=rdf"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Wizard101 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.wizard101central.com/wiki/api.php?action=rsd"/>
+<!-- Begin Extension:CSS --><link rel="stylesheet" href="data:text/css;charset=UTF-8;base64,I3NlYXJjaC1saW5rIGEgeyBkaXNwbGF5OiBibG9jazsgY29sb3I6IHRyYW5zcGFyZW50OyB3aWR0aDogMTAwJTsgaGVpZ2h0OiAxMDAlOyB9"/><!-- End Extension:CSS -->
+
+<link rel="canonical" href="https://wiki.wizard101central.com/wiki/Main_Page" />
+<meta name="viewport" content="width=device-width">
+
+<script data-cfasync="false" src="https://wiki.wizard101central.com/wiki/skins/Vector/skinStyles/script/theme-toggle.js"></script>
+<link rel="stylesheet" href="https://wiki.wizard101central.com/wiki/skins/Vector/skinStyles/w101cv2-22.css">
+<link rel="stylesheet" href="https://wiki.wizard101central.com/wiki/skins/Vector/skinStyles/w101cv2-dark-16.css">
+<script data-cfasync="false" async src="https://kit.fontawesome.com/2ee5bff4d3.js" crossorigin="anonymous"></script>
+<link href="https://wiki.wizard101central.com/wiki/skins/Vector/skinStyles/script/canvi-master/dist/canvi.css" rel="stylesheet" >
+
+<!-- Nitro -->
+<script data-cfasync="false">window.nitroAds=window.nitroAds||{createAd:function(){return new Promise(e=>{window.nitroAds.queue.push(["createAd",arguments,e])})},addUserToken:function(){window.nitroAds.queue.push(["addUserToken",arguments])},queue:[]};</script>
+<script async src="https://s.nitropay.com/ads-1250.js" type="550aa69a1f33a38f591ffa10-text/javascript"></script>
+<!-- /Nitro -->
+
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+
+
+
+
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-110 ns-subject page-Quest_Local_Expertise rootpage-Quest_Local_Expertise skin-vector action-view"><!-- Nitro -->
+<script type="550aa69a1f33a38f591ffa10-text/javascript">
+window['nitroAds'].createAd('W101CW - Left Gutter', {
+  "refreshLimit": 20,
+  "refreshTime": 30,
+  "format": "rail",
+  "rail": "left",
+  "railOffsetTop": 1100,
+  "railOffsetBottom": 400,
+  "railCollisionWhitelist": ["*"],
+  "railDistance": 0,
+  "railSpacing": 150,
+  "sizes": [
+    [
+      "160",
+      "600"
+    ]
+  ],
+  "mediaQuery": "(min-width: 1025px)"
+});
+</script>
+<!-- /Nitro -->
+
+<style type="text/css">
+#ca-viewsource { display: none !important; }
+#ca-talk { display: none !important; }
+#ca-history { display: none !important; }
+</style>
+<!-- Nitro -->
+<script type="550aa69a1f33a38f591ffa10-text/javascript">
+window['nitroAds'].createAd('W101C Wiki - Anchor - 729x90', {
+  "refreshLimit": 20,
+  "refreshTime": 30,
+  "format": "anchor",
+  "anchor": "bottom",
+  "anchorPersistClose": false,
+  "anchorBgColor": "rgb(255 255 255 / 0%)",
+  "mediaQuery": "(min-width: 1025px), (min-width: 768px) and (max-width: 1024px), (min-width: 320px) and (max-width: 767px)"
+});
+</script>
+<!--/Nitro -->
+<!-- Nitro  -->
+<div id="W101CW - Video Player"></div>
+
+<script type="550aa69a1f33a38f591ffa10-text/javascript">
+window['nitroAds'].createAd('W101CW - Video Player', {
+  "format": "video-nc",
+  "video": {
+    "float": "always"
+  }
+});
+</script>
+<!-- /Nitro -->
+
+
+		<aside class="js-canvi-navbar--left canvi-navbar">
+    <div class="canvi-user-info">
+       <div class="canvi-user-info__data">
+           <span class="canvi-user-info__title">Mobile Menu</span>
+           <div class="canvi-user-info__close" onclick="if (!window.__cfRLUnblockHandlers) return false; canviLeft.close();" data-cf-modified-550aa69a1f33a38f591ffa10-=""></div>
+       </div>
+   </div>
+   <div class="csidebarcontent">
+   		<div class="portal" role="navigation" id='p-Wizard101_Wiki' aria-labelledby='p-Wizard101_Wiki-label'>
+			<h3 id='p-Wizard101_Wiki-label'>Wizard101 Wiki</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Main-Page"><a href="/wiki/Wizard101_Wiki">Main Page</a></li><li id="n-Recent-Changes"><a href="/wiki/Special:RecentChanges">Recent Changes</a></li><li id="n-Creatures"><a href="/wiki/Category:Creatures">Creatures</a></li><li id="n-Crafting"><a href="/wiki/Category:Crafting">Crafting</a></li><li id="n-Fishing"><a href="/wiki/Category:Fishing">Fishing</a></li><li id="n-Gardening"><a href="/wiki/Category:Gardening">Gardening</a></li><li id="n-Raids"><a href="/wiki/Category:Raids">Raids</a></li><li id="n-Housing"><a href="/wiki/Category:Housing">Housing</a></li><li id="n-Items"><a href="/wiki/Category:Items">Items</a></li><li id="n-Jewels"><a href="/wiki/Category:Jewels">Jewels</a></li><li id="n-Locations"><a href="/wiki/Category:Locations">Locations</a></li><li id="n-Mounts"><a href="/wiki/Category:Mounts">Mounts</a></li><li id="n-NPCs"><a href="/wiki/Category:NPC">NPCs</a></li><li id="n-Pets"><a href="/wiki/Category:Pets">Pets</a></li><li id="n-Quests"><a href="/wiki/Category:Quests">Quests</a></li><li id="n-Spells"><a href="/wiki/Category:Spells">Spells</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Basic_Game_Information' aria-labelledby='p-Basic_Game_Information-label'>
+			<h3 id='p-Basic_Game_Information-label'>Basic Game Information</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Creating-an-Account"><a href="/wiki/Basic:Creating_an_Account">Creating an Account</a></li><li id="n-Creating-a-Character"><a href="/wiki/Basic:Creating_a_Character">Creating a Character</a></li><li id="n-Character-Names"><a href="/wiki/Basic:Character_Names">Character Names</a></li><li id="n-Schools"><a href="/wiki/Basic:Schools">Schools</a></li><li id="n-Spells"><a href="/wiki/Basic:Spells">Spells</a></li><li id="n-Spell-Types"><a href="/wiki/Basic:Spell_Types">Spell Types</a></li><li id="n-Treasure-Cards"><a href="/wiki/Basic:Treasure_Cards">Treasure Cards</a></li><li id="n-Spell-Mutations"><a href="/wiki/Basic:Spell_Mutations">Spell Mutations</a></li><li id="n-Area-Pricing"><a href="/wiki/Basic:Area_Pricing">Area Pricing</a></li><li id="n-Quests"><a href="/wiki/Basic:Quests">Quests</a></li><li id="n-Friends"><a href="/wiki/Basic:Frends">Friends</a></li><li id="n-Chat"><a href="/wiki/Basic:Chat">Chat</a></li><li id="n-Trading"><a href="/wiki/Basic:Trading">Trading</a></li><li id="n-Level-Chart"><a href="/wiki/Basic:Level_Chart">Level Chart</a></li><li id="n-Experience"><a href="/wiki/Basic:Experience">Experience</a></li><li id="n-Health.2C-Mana.2C-and-Energy"><a href="/wiki/Basic:Health,_Mana,_and_Energy">Health, Mana, and Energy</a></li><li id="n-Training-Points"><a href="/wiki/Basic:Training_Points">Training Points</a></li><li id="n-Badges"><a href="/wiki/Basic:Badges">Badges</a></li><li id="n-Titles"><a href="/wiki/Basic:Titles">Titles</a></li><li id="n-Duels-.26-PvP"><a href="/wiki/Basic:Duels">Duels &amp; PvP</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Page_Creation_.26_Editing' aria-labelledby='p-Page_Creation_.26_Editing-label'>
+			<h3 id='p-Page_Creation_.26_Editing-label'>Page Creation &amp; Editing</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Creating-New-Pages"><a href="/wiki/Basic:Creating_New_Pages">Creating New Pages</a></li><li id="n-Page-Creation-Tool"><a href="/wiki/Wizard101_Wiki:Create_Page">Page Creation Tool</a></li><li id="n-Editing-Guide"><a href="/wiki/Wizard101_Wiki:Editing_Guide">Editing Guide</a></li><li id="n-How-to-upload-Images"><a href="/wiki/Editing_Guide/Images">How to upload Images</a></li><li id="n-Guide-to-Wiki-Code"><a href="/wiki/Editing_Guide/Wiki_Code_Editing">Guide to Wiki Code</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Functions' aria-labelledby='p-Functions-label'>
+			<h3 id='p-Functions-label'>Functions</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Item-Query"><a href="/wiki/Special:RunQuery/ItemQueryTest">Item Query</a></li><li id="n-Advanced-Combat-Stat-Calculator"><a href="/wiki/Special:RunQuery/Advanced_Combat_Stat_Calculator">Advanced Combat Stat Calculator</a></li><li id="n-Pet-Stat-Calculator"><a href="/wiki/Special:RunQuery/Pet_Stat_Calculator">Pet Stat Calculator</a></li><li id="n-Creature-Critical-Rating-Calculator"><a href="/wiki/Special:RunQuery/Creature_Critical_Rating_Calculator">Creature Critical Rating Calculator</a></li><li id="n-Snack-Finder"><a href="/wiki/Special:RunQuery/SnackFinder">Snack Finder</a></li><li id="n-Uncaptured-Natural-Attacks"><a href="/wiki/Special:RunQuery/UncapturedNaturalAttack">Uncaptured Natural Attacks</a></li><li id="n-Talent-Ordering-Tool"><a href="/wiki/Special:RunQuery/PetTalentOrderTool">Talent Ordering Tool</a></li><li id="n-Semantic-Search"><a href="/wiki/Special:Ask">Semantic Search</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Quest:Local_Expertise" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Quest:Local_Expertise" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Quest:Local_Expertise&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Quest:Local_Expertise&amp;oldid=264662" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Quest:Local_Expertise&amp;action=info" title="More information about this page">Page information</a></li><li id="t-smwbrowselink"><a href="/wiki/Special:Browse/:Quest:Local-5FExpertise" rel="search">Browse properties</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Staff_Resources' aria-labelledby='p-Staff_Resources-label'>
+			<h3 id='p-Staff_Resources-label'>Staff Resources</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Edit-this-menu"><a href="/wiki/MediaWiki:Sidebar">Edit this menu</a></li><li id="n-Admin-Needed"><a href="/wiki/Category:Admin_Needed">Admin Needed</a></li><li id="n-Candidates-for-Deletion"><a href="/wiki/Category:Candidates_for_Deletion">Candidates for Deletion</a></li><li id="n-Outdated-Articles"><a href="/wiki/Category:Outdated_Articles">Outdated Articles</a></li><li id="n-Broken-Redirects"><a href="/wiki/Special:BrokenRedirects">Broken Redirects</a></li><li id="n-Wanted-Categories"><a href="/wiki/Special:WantedCategories">Wanted Categories</a></li><li id="n-All-Logs"><a href="/wiki/Special:Log">All Logs</a></li><li id="n-Block-User"><a href="/wiki/Special:Block">Block User</a></li><li id="n-Template-List"><a href="/wiki/Special:Templates">Template List</a></li>					</ul>
+							</div>
+		</div>
+	
+   </div>
+  </aside><!-- end aside for mobile menu -->
+
+<div class="js-canvi-content canvi-content">
+
+<div class="wrapper">
+<div class="headwrap">
+	<div class="headL"></div>
+	<div class="headC">
+
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Wizard101_Wiki"  title="Visit the main page">
+		</a>
+	</div>
+	<div class="headerR"></div>
+	</div><!-- end headC -->
+	<div class="headR">
+
+
+	
+	
+<!-- theme switch -->
+<div class="topbar_switch">
+    <button class="theme-toggle" id="theme-toggle" title="Toggles light &amp; dark" aria-label="light" aria-live="polite">
+      <svg class="sun-and-moon" aria-hidden="true" width="24" height="24" viewBox="0 0 24 24">
+        <mask class="moon" id="moon-mask">
+          <rect x="0" y="0" width="100%" height="100%" fill="white"></rect>
+          <circle cx="24" cy="10" r="6" fill="black"></circle>
+        </mask>
+        <circle class="sun" cx="12" cy="12" r="6" mask="url(#moon-mask)" fill="currentColor"></circle>
+        <g class="sun-beams" stroke="currentColor">
+          <line x1="12" y1="1" x2="12" y2="3"></line>
+          <line x1="12" y1="21" x2="12" y2="23"></line>
+          <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+          <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+          <line x1="1" y1="12" x2="3" y2="12"></line>
+          <line x1="21" y1="12" x2="23" y2="12"></line>
+          <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+          <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+         </g>
+      </svg>
+    </button>
+</div><!-- end topbar switch -->
+	</div><!-- end headR -->
+</div>
+<div class="contentwrap">
+	<div class="contentL"></div>
+	<div class="contentC">
+    <span class="mobilemenu"><a class="js-canvi-open-button--left" href="#"><i class="fa fa-bars"></i></a></span>
+	<div class="navwrap">
+	<div class="navL"></div>
+	<div class="navC">
+
+
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li><a href="https://www.wizard101central.com">Forums</a></li>
+							<li id="pt-login"><a href="/wiki/index.php?title=Special:UserLogin&amp;returnto=Quest%3ALocal+Expertise" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+						
+
+    </div><!-- end navC -->
+	<div class="navR"></div>
+	</div><!-- end navwrap -->
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			
+
+
+							<div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><h3 class="site-notice"><span class="mw-headline" id="Click_here_to_make_a_free_account_to_edit_the_wiki_and_use_the_forums_at_Wizard101_Central.21">Click <a class="external text" href="https://www.wizard101central.com/forums/register.php">here</a> to make a free account to edit the wiki and use the forums at Wizard101 Central!</span></h3><br /><p class="user-notice"><b>Pardon our dust.  We're still cleaning up!</b><br />If you notice anything that looks off, something that could be better/clearer, or may now be broken, please post about it in this thread: <a class="external text" href="https://www.wizard101central.com/forums/showthread.php?521902-Wiki-Upgrade-Discussion"><b>Wiki Upgrade Discussion</b>.</a></p>
+</div></div>
+						
+			<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" <div style="font-family: wizardregular; font-size: 24px;" lang="en">Quest:Local Expertise</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wizard101 Wiki</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+
+<!-- Nitro -->
+<div class="fpbox" align="center">
+<div id="W101CW - Header Resp Phone/Tablet"></div>
+<script type="550aa69a1f33a38f591ffa10-text/javascript">
+window['nitroAds'].createAd('W101CW - Header Resp Phone/Tablet', {
+  "refreshLimit": 20,
+  "refreshTime": 30,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "delayLoading": true,
+  "mediaQuery": "(min-width: 768px) and (max-width: 1024px), (min-width: 320px) and (max-width: 767px)"
+});
+</script>
+<div id="W101C Wiki - 728x90 - Navbar"></div>
+<script type="550aa69a1f33a38f591ffa10-text/javascript">
+window['nitroAds'].createAd('W101C Wiki - 728x90 - Navbar', {
+  "refreshLimit": 20,
+  "refreshTime": 30,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "sizes": [
+    [
+      "728",
+      "90"
+    ]
+  ],
+  "mediaQuery": "(min-width: 1025px)"
+});
+</script>
+</div>
+<!-- /Nitro -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><br />
+</p>
+<div style="background:rgba(146, 95, 0, 0.09)" class="mw-collapsible">
+<h1><span class="mw-headline" id="Quest_Information"><div style="font-family: wizardregular; font-size: 16px;">Quest Information</div></span></h1>
+<div class="mw-collapsible-content">
+<table>
+
+<tr>
+<td width="320"><b>Prequest:</b>
+<dl><dd><a href="/wiki/Quest:Barrels_of_Fun" title="Quest:Barrels of Fun">Barrels of Fun</a></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd></dl>
+<p><b>Given By:</b> <a href="/wiki/NPC:Dorian_BrightEyes" title="NPC:Dorian BrightEyes">Dorian BrightEyes</a>
+</p>
+<dl><dd><i><b>Giver Location:</b></i> <a href="/wiki/Location:Tyrian_Gorge" title="Location:Tyrian Gorge">Tyrian Gorge</a></dd></dl>
+<dl><dd>This is a <b>storyline</b> quest.</dd></dl>
+<p><b>Goals:</b>
+<br />
+<span style="margin-left:20px">Defeat 3 <a href="/wiki/Creature:Hundred_Legger" title="Creature:Hundred Legger">Hundred Leggers</a></span><br />
+<span style="margin-left:20px">Talk to <a href="/wiki/NPC:Captain_K%27torr_J%27rrol" title="NPC:Captain K'torr J'rrol">Captain K'torr J'rrol</a></span>
+<br />
+<b>Hand In:</b> <a href="/wiki/NPC:Captain_K%27torr_J%27rrol" title="NPC:Captain K'torr J'rrol">Captain K'torr J'rrol</a>
+</p><p><b>Reward:</b>
+</p>
+<table border="1" width="140">
+
+<tr valign="top">
+<td>
+<table border="1" width="60">
+<tr>
+<td width="45"><center><a href="/wiki/File:(Icon)_Gold.png" class="image"><img alt="(Icon) Gold.png" src="/wiki/images/thumb/a/af/%28Icon%29_Gold.png/45px-%28Icon%29_Gold.png" width="45" height="45" srcset="/wiki/images/a/af/%28Icon%29_Gold.png 1.5x" /></a></center>
+</td></tr>
+<tr>
+<td width="45"><center>450</center>
+</td></tr></table>
+</td>
+<td>
+<table border="1" width="60">
+<tr>
+<td width="45"><center><a href="/wiki/File:(Icon)_XP.png" class="image"><img alt="(Icon) XP.png" src="/wiki/images/thumb/2/2b/%28Icon%29_XP.png/45px-%28Icon%29_XP.png" width="45" height="45" srcset="/wiki/images/2/2b/%28Icon%29_XP.png 1.5x" /></a></center>
+</td></tr>
+<tr>
+<td width="45"><center>46,490</center>
+</td></tr></table>
+</td></tr></table>
+</td>
+<td><a href="/wiki/File:(Quest)_Local_Expertise_Goal_1.png" class="image"><img alt="(Quest) Local Expertise Goal 1.png" src="/wiki/images/thumb/3/3b/%28Quest%29_Local_Expertise_Goal_1.png/175px-%28Quest%29_Local_Expertise_Goal_1.png" width="175" height="175" srcset="/wiki/images/thumb/3/3b/%28Quest%29_Local_Expertise_Goal_1.png/263px-%28Quest%29_Local_Expertise_Goal_1.png 1.5x, /wiki/images/3/3b/%28Quest%29_Local_Expertise_Goal_1.png 2x" /></a><a href="/wiki/File:(Quest)_Local_Expertise_Goal_2.png" class="image"><img alt="(Quest) Local Expertise Goal 2.png" src="/wiki/images/thumb/d/d6/%28Quest%29_Local_Expertise_Goal_2.png/175px-%28Quest%29_Local_Expertise_Goal_2.png" width="175" height="175" srcset="/wiki/images/thumb/d/d6/%28Quest%29_Local_Expertise_Goal_2.png/263px-%28Quest%29_Local_Expertise_Goal_2.png 1.5x, /wiki/images/d/d6/%28Quest%29_Local_Expertise_Goal_2.png 2x" /></a>
+</td></tr></table>
+<p><br />
+</p><p><b>Leads to:</b>
+</p>
+<dl><dd><a href="/wiki/Quest:Hypothetically_Speaking" title="Quest:Hypothetically Speaking">Hypothetically Speaking</a></dd>
+<dd> </dd>
+<dd> </dd>
+<dd> </dd>
+<dd> </dd>
+<dd> </dd>
+<dd> </dd>
+<dd> </dd>
+<dd> </dd>
+<dd> </dd>
+<dd> </dd>
+<dd> </dd>
+<dd> </dd>
+<dd> </dd>
+<dd> </dd>
+<dd> </dd></dl>
+<p><br />
+</p>
+</div>
+</div>
+<div style="background:rgba(146, 95, 0, 0.09)" class="mw-collapsible mw-collapsed">
+<h1><span class="mw-headline" id="Quest_Dialogue"><div style="font-family: wizardregular; font-size: 16px;">Quest Dialogue</div></span></h1>
+<div class="mw-collapsible-content">
+<p><br />
+</p>
+<table width="980">
+
+<tr valign="top">
+<td><center><i>This page is for recording a complete Quest Dialogue of all the conversation and story during a quest.</i>
+<dl><dd><i>This includes NPC discussions, Narrator statements, and Creature speeches.</i><br /></center></dd></dl>
+</td></tr>
+<tr valign="top">
+<td><br /><br />
+<center>
+<dl><dd><div class="center"><div class="floatnone"><a href="/wiki/File:(Quest)_Local_Expertise_Dialogue_1.png" class="image"><img alt="(Quest) Local Expertise Dialogue 1.png" src="/wiki/images/thumb/e/e6/%28Quest%29_Local_Expertise_Dialogue_1.png/600px-%28Quest%29_Local_Expertise_Dialogue_1.png" width="600" height="135" srcset="/wiki/images/e/e6/%28Quest%29_Local_Expertise_Dialogue_1.png 1.5x" /></a></div></div></center><center></dd>
+<dd><div class="center"><div class="floatnone"><a href="/wiki/File:(Quest)_Local_Expertise_Dialogue_2.png" class="image"><img alt="(Quest) Local Expertise Dialogue 2.png" src="/wiki/images/thumb/2/22/%28Quest%29_Local_Expertise_Dialogue_2.png/600px-%28Quest%29_Local_Expertise_Dialogue_2.png" width="600" height="135" srcset="/wiki/images/2/22/%28Quest%29_Local_Expertise_Dialogue_2.png 1.5x" /></a></div></div></center><center></dd>
+<dd><div class="center"><div class="floatnone"><a href="/wiki/File:(Quest)_Local_Expertise_Dialogue_3.png" class="image"><img alt="(Quest) Local Expertise Dialogue 3.png" src="/wiki/images/thumb/5/57/%28Quest%29_Local_Expertise_Dialogue_3.png/600px-%28Quest%29_Local_Expertise_Dialogue_3.png" width="600" height="135" srcset="/wiki/images/5/57/%28Quest%29_Local_Expertise_Dialogue_3.png 1.5x" /></a></div></div></center><center></dd>
+<dd><div class="center"><div class="floatnone"><a href="/wiki/File:(Quest)_Local_Expertise_Dialogue_4.png" class="image"><img alt="(Quest) Local Expertise Dialogue 4.png" src="/wiki/images/thumb/1/13/%28Quest%29_Local_Expertise_Dialogue_4.png/600px-%28Quest%29_Local_Expertise_Dialogue_4.png" width="600" height="135" srcset="/wiki/images/1/13/%28Quest%29_Local_Expertise_Dialogue_4.png 1.5x" /></a></div></div></center><center></dd>
+<dd><div class="center"><div class="floatnone"><a href="/wiki/File:(Quest)_Local_Expertise_Dialogue_5.png" class="image"><img alt="(Quest) Local Expertise Dialogue 5.png" src="/wiki/images/thumb/1/1f/%28Quest%29_Local_Expertise_Dialogue_5.png/600px-%28Quest%29_Local_Expertise_Dialogue_5.png" width="600" height="135" srcset="/wiki/images/1/1f/%28Quest%29_Local_Expertise_Dialogue_5.png 1.5x" /></a></div></div></center></dd></dl>
+</td></tr></table>
+<p><br />
+</p>
+</div>
+</div>
+<hr />
+<p><br />
+</p>
+<div class="plainlinks main-end" id="main-end-0"><hr class="infobox-hr" /><p>Documentation on how to edit this page can be found at <a href="/wiki/Template:QuestInfobox/doc" title="Template:QuestInfobox/doc">Template:QuestInfobox/doc</a>.</p><p>Hints, guides, and discussions of the Wiki content related to <b>Local Expertise</b> should be placed in the <b><a class="external text" href="https://www.wizard101central.com/forums/forumdisplay.php?124-Wiki-Page-Discussion">Wiki Page Discussion Forums</a></b>.</p><p style="display: inline">Search for content related to <b>Local Expertise</b> in the <b><a class="external text" href="https://www.wizard101central.com/forums/forumdisplay.php?122-Wizard101-Central-Wiki">Central Wiki Forums</a></b> by clicking <b><a class="external text" href="https://www.wizard101central.com/forums/search.php?do=process&amp;query=Local+Expertise&amp;titleonly=0&amp;searchdate=0&amp;beforeafter=after&amp;contenttypeid=1&amp;type%5B%5D=1&amp;sortby=relevance&amp;order=descending&amp;sortorder=desc&amp;searchthreadid=0&amp;type%5B%5D=1">here</a></b>. </p><span style="position: relative"><img alt="Search" src="/wiki/images/thumb/f/fe/%28Icon%29_Item_Identifier.png/21px-%28Icon%29_Item_Identifier.png" title="Search" width="21" height="21" srcset="/wiki/images/thumb/f/fe/%28Icon%29_Item_Identifier.png/32px-%28Icon%29_Item_Identifier.png 1.5x, /wiki/images/f/fe/%28Icon%29_Item_Identifier.png 2x" /><div id="search-link" style="display: inline-block; width: 21px; height: 21px; position: absolute; top: 0px; left: 0px;"><a class="external autonumber" href="https://www.wizard101central.com/forums/search.php?do=process&amp;query=Local+Expertise&amp;titleonly=0&amp;searchdate=0&amp;beforeafter=after&amp;contenttypeid=1&amp;type%5B%5D=1&amp;sortby=relevance&amp;order=descending&amp;sortorder=desc&amp;searchthreadid=0&amp;type%5B%5D=1">[1]</a></div></span></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20230930104139
+Cache expiry: 1209600
+Dynamic content: false
+[SMW] In‐text annotation parser time: 0 seconds
+CPU time usage: 0.165 seconds
+Real time usage: 0.174 seconds
+Preprocessor visited node count: 6365/1000000
+Preprocessor generated node count: 68097/1000000
+Post‐expand include size: 16820/2097152 bytes
+Template argument size: 1784/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 1/300
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.10%  161.985      2 - Template:QuestInfobox
+100.00%  161.828      1 - -total
+ 67.61%  109.405      1 - Template:QuestInfoboxPage1
+ 63.14%  102.177      4 - Template:NumberList
+ 18.93%   30.635      1 - Template:QuestInfoboxPage2
+  1.33%    2.152      1 - Template:RewardBox1Full
+  0.96%    1.557      1 - Template:Main_End
+  0.79%    1.276      1 - Quest:Hypothetically_Speaking
+  0.71%    1.150      2 - Template:NumberSet
+  0.65%    1.051      2 - Template:RewardBox1
+-->
+
+<!-- Saved in parser cache with key wikidb3-mw_:pcache:idhash:84029-0!*!0!default!!en!5!* and timestamp 20230930104139 and revision id 264662
+ -->
+</div><!-- Nitro -->
+<!-- W101C - Wiki footer -->
+<br />
+<div class="fpbox" align="center">
+<div id="W101C Wiki - 336x280 - Global Footer"></div>
+<script type="550aa69a1f33a38f591ffa10-text/javascript">
+window['nitroAds'].createAd('W101C Wiki - 336x280 - Global Footer', {
+  "refreshLimit": 20,
+  "refreshTime": 30,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "sizes": [
+    [
+      "336",
+      "280"
+    ],
+    [
+      "300",
+      "250"
+    ]
+  ]
+});
+</script>	
+</div>
+<!-- /Nitro -->				
+									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://wiki.wizard101central.com/wiki/index.php?title=Quest:Local_Expertise&amp;oldid=264662">https://wiki.wizard101central.com/wiki/index.php?title=Quest:Local_Expertise&amp;oldid=264662</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Quests" title="Category:Quests">Quests</a></li><li><a href="/wiki/Category:Khrysalis_Quests" title="Category:Khrysalis Quests">Khrysalis Quests</a></li><li><a href="/wiki/Category:Khrysalis_Storyline_Quests" title="Category:Khrysalis Storyline Quests">Khrysalis Storyline Quests</a></li><li><a href="/wiki/Category:Tyrian_Gorge_Quests" title="Category:Tyrian Gorge Quests">Tyrian Gorge Quests</a></li><li><a href="/wiki/Category:Tyrian_Gorge_Storyline_Quests" title="Category:Tyrian Gorge Storyline Quests">Tyrian Gorge Storyline Quests</a></li><li><a href="/wiki/Category:Storyline_Quests" title="Category:Storyline Quests">Storyline Quests</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+				<div id="mw-head">
+				<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-quest" class="selected"><span><a href="/wiki/Quest:Local_Expertise" >Quest</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/wiki/index.php?title=:Local_Expertise&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>			
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Quest:Local_Expertise" >Read</a></span></li>
+															<li id="ca-viewsource"><span><a href="/wiki/index.php?title=Quest:Local_Expertise&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Quest:Local_Expertise&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+					<!-- <div id="p-search" role="search">
+<table align="center" width="350">
+<tr>
+<td>
+<script async src="https://cse.google.com/cse.js?cx=partner-pub-4999180642090966:3138814113">
+</script>
+<div class="gcse-searchbox-only"></div>
+</td>
+</tr>
+</table>
+-->
+
+					<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wizard101 Wiki" title="Search Wizard101 Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					
+					</div>
+									</div>
+	            </div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wizard101_Wiki"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-Wizard101_Wiki' aria-labelledby='p-Wizard101_Wiki-label'>
+			<h3 id='p-Wizard101_Wiki-label'>Wizard101 Wiki</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Main-Page"><a href="/wiki/Wizard101_Wiki">Main Page</a></li><li id="n-Recent-Changes"><a href="/wiki/Special:RecentChanges">Recent Changes</a></li><li id="n-Creatures"><a href="/wiki/Category:Creatures">Creatures</a></li><li id="n-Crafting"><a href="/wiki/Category:Crafting">Crafting</a></li><li id="n-Fishing"><a href="/wiki/Category:Fishing">Fishing</a></li><li id="n-Gardening"><a href="/wiki/Category:Gardening">Gardening</a></li><li id="n-Raids"><a href="/wiki/Category:Raids">Raids</a></li><li id="n-Housing"><a href="/wiki/Category:Housing">Housing</a></li><li id="n-Items"><a href="/wiki/Category:Items">Items</a></li><li id="n-Jewels"><a href="/wiki/Category:Jewels">Jewels</a></li><li id="n-Locations"><a href="/wiki/Category:Locations">Locations</a></li><li id="n-Mounts"><a href="/wiki/Category:Mounts">Mounts</a></li><li id="n-NPCs"><a href="/wiki/Category:NPC">NPCs</a></li><li id="n-Pets"><a href="/wiki/Category:Pets">Pets</a></li><li id="n-Quests"><a href="/wiki/Category:Quests">Quests</a></li><li id="n-Spells"><a href="/wiki/Category:Spells">Spells</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Basic_Game_Information' aria-labelledby='p-Basic_Game_Information-label'>
+			<h3 id='p-Basic_Game_Information-label'>Basic Game Information</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Creating-an-Account"><a href="/wiki/Basic:Creating_an_Account">Creating an Account</a></li><li id="n-Creating-a-Character"><a href="/wiki/Basic:Creating_a_Character">Creating a Character</a></li><li id="n-Character-Names"><a href="/wiki/Basic:Character_Names">Character Names</a></li><li id="n-Schools"><a href="/wiki/Basic:Schools">Schools</a></li><li id="n-Spells"><a href="/wiki/Basic:Spells">Spells</a></li><li id="n-Spell-Types"><a href="/wiki/Basic:Spell_Types">Spell Types</a></li><li id="n-Treasure-Cards"><a href="/wiki/Basic:Treasure_Cards">Treasure Cards</a></li><li id="n-Spell-Mutations"><a href="/wiki/Basic:Spell_Mutations">Spell Mutations</a></li><li id="n-Area-Pricing"><a href="/wiki/Basic:Area_Pricing">Area Pricing</a></li><li id="n-Quests"><a href="/wiki/Basic:Quests">Quests</a></li><li id="n-Friends"><a href="/wiki/Basic:Frends">Friends</a></li><li id="n-Chat"><a href="/wiki/Basic:Chat">Chat</a></li><li id="n-Trading"><a href="/wiki/Basic:Trading">Trading</a></li><li id="n-Level-Chart"><a href="/wiki/Basic:Level_Chart">Level Chart</a></li><li id="n-Experience"><a href="/wiki/Basic:Experience">Experience</a></li><li id="n-Health.2C-Mana.2C-and-Energy"><a href="/wiki/Basic:Health,_Mana,_and_Energy">Health, Mana, and Energy</a></li><li id="n-Training-Points"><a href="/wiki/Basic:Training_Points">Training Points</a></li><li id="n-Badges"><a href="/wiki/Basic:Badges">Badges</a></li><li id="n-Titles"><a href="/wiki/Basic:Titles">Titles</a></li><li id="n-Duels-.26-PvP"><a href="/wiki/Basic:Duels">Duels &amp; PvP</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Page_Creation_.26_Editing' aria-labelledby='p-Page_Creation_.26_Editing-label'>
+			<h3 id='p-Page_Creation_.26_Editing-label'>Page Creation &amp; Editing</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Creating-New-Pages"><a href="/wiki/Basic:Creating_New_Pages">Creating New Pages</a></li><li id="n-Page-Creation-Tool"><a href="/wiki/Wizard101_Wiki:Create_Page">Page Creation Tool</a></li><li id="n-Editing-Guide"><a href="/wiki/Wizard101_Wiki:Editing_Guide">Editing Guide</a></li><li id="n-How-to-upload-Images"><a href="/wiki/Editing_Guide/Images">How to upload Images</a></li><li id="n-Guide-to-Wiki-Code"><a href="/wiki/Editing_Guide/Wiki_Code_Editing">Guide to Wiki Code</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Functions' aria-labelledby='p-Functions-label'>
+			<h3 id='p-Functions-label'>Functions</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Item-Query"><a href="/wiki/Special:RunQuery/ItemQueryTest">Item Query</a></li><li id="n-Advanced-Combat-Stat-Calculator"><a href="/wiki/Special:RunQuery/Advanced_Combat_Stat_Calculator">Advanced Combat Stat Calculator</a></li><li id="n-Pet-Stat-Calculator"><a href="/wiki/Special:RunQuery/Pet_Stat_Calculator">Pet Stat Calculator</a></li><li id="n-Creature-Critical-Rating-Calculator"><a href="/wiki/Special:RunQuery/Creature_Critical_Rating_Calculator">Creature Critical Rating Calculator</a></li><li id="n-Snack-Finder"><a href="/wiki/Special:RunQuery/SnackFinder">Snack Finder</a></li><li id="n-Uncaptured-Natural-Attacks"><a href="/wiki/Special:RunQuery/UncapturedNaturalAttack">Uncaptured Natural Attacks</a></li><li id="n-Talent-Ordering-Tool"><a href="/wiki/Special:RunQuery/PetTalentOrderTool">Talent Ordering Tool</a></li><li id="n-Semantic-Search"><a href="/wiki/Special:Ask">Semantic Search</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Quest:Local_Expertise" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Quest:Local_Expertise" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Quest:Local_Expertise&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Quest:Local_Expertise&amp;oldid=264662" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Quest:Local_Expertise&amp;action=info" title="More information about this page">Page information</a></li><li id="t-smwbrowselink"><a href="/wiki/Special:Browse/:Quest:Local-5FExpertise" rel="search">Browse properties</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Staff_Resources' aria-labelledby='p-Staff_Resources-label'>
+			<h3 id='p-Staff_Resources-label'>Staff Resources</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Edit-this-menu"><a href="/wiki/MediaWiki:Sidebar">Edit this menu</a></li><li id="n-Admin-Needed"><a href="/wiki/Category:Admin_Needed">Admin Needed</a></li><li id="n-Candidates-for-Deletion"><a href="/wiki/Category:Candidates_for_Deletion">Candidates for Deletion</a></li><li id="n-Outdated-Articles"><a href="/wiki/Category:Outdated_Articles">Outdated Articles</a></li><li id="n-Broken-Redirects"><a href="/wiki/Special:BrokenRedirects">Broken Redirects</a></li><li id="n-Wanted-Categories"><a href="/wiki/Special:WantedCategories">Wanted Categories</a></li><li id="n-All-Logs"><a href="/wiki/Special:Log">All Logs</a></li><li id="n-Block-User"><a href="/wiki/Special:Block">Block User</a></li><li id="n-Template-List"><a href="/wiki/Special:Templates">Template List</a></li>					</ul>
+							</div>
+		</div>
+	
+			
+		</div>	
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 November 2013, at 21:35.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-about"><a href="/wiki/Wizard101_Wiki:About" class="mw-redirect" title="Wizard101 Wiki:About">About Wizard101 Central Wiki</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a><a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/wiki/extensions/SemanticMediaWiki/includes/../res/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31"/></a>							<div class="moreprivacy">
+<a target="_blank" href="https://policies.google.com/technologies/partner-sites">Google GDPR Policy</a> . <a target="_blank" href="https://www.wizard101central.com/forums/Privacy_Policy.php">Privacy Policy</a></br><span data-ccpa-link="1"></span></br><div id="ncmp-consent-link"></div>
+</div>
+						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script type="550aa69a1f33a38f591ffa10-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.smw.tooltips","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.collapsiblevector.collapsibleNav"]);});</script>
+<script type="550aa69a1f33a38f591ffa10-text/javascript">
+        jQuery(document).ready(function ($) {
+            var email_field =  jQuery("#mw-htmlform-email tbody tr:first-child td.mw-input");
+            email_field.empty();
+            email_field.append("");
+        });
+    </script><script type="550aa69a1f33a38f591ffa10-text/javascript"> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-25094208-2']); /*_gaq.push(['_trackPageview']);*/ _gaq.push(['_trackEvent', 'Mediawiki', window.location.host, window.location.href]);  (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script>
+<script type="550aa69a1f33a38f591ffa10-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgBackendResponseTime": 190
+} );});</script>
+		</div><!-- end contentC -->
+<div class="contentR"></div>
+</div><!-- end contentwrap -->
+<div class="footwrap">
+	<div class="footL"></div>
+	<div class="footC"></div>
+	<div class="footR"></div>
+</div><!-- end footwrap -->
+<div class="footer_morecopyright" align="center">
+Copyright &copy;2008-2030, Wizard101 Central - All Rights Reserved - Portions Copyright &copy;2008-2030, KingsIsle Entertainment, Inc.<br>Content published on Wizard101 Central requires permission for reprint anywhere.
+<iframe src="https://www.wizard101central.com/forums/online_wiki_user.php" scrolling="no" allowtransparency="true" frameborder="0" width="0" height="0"></iframe>
+</div>
+
+</div><!-- end wrapper -->
+</div><!-- end canvi wrapper -->
+<script src="https://wiki.wizard101central.com/wiki/skins/Vector/skinStyles/script/canvi-master/js/canvi.js" type="550aa69a1f33a38f591ffa10-text/javascript"></script>
+<script type="550aa69a1f33a38f591ffa10-text/javascript">
+  var canviLeft = new Canvi({
+          content: ".js-canvi-content",
+          isDebug: 1,
+          navbar: ".js-canvi-navbar--left",
+          openButton: ".js-canvi-open-button--left",
+          position: "left",
+          pushContent: 1,
+          speed: "0.2s",
+          width: "320px",
+          responsiveWidths: [ {
+              breakpoint: "600px",
+              width: "380px"
+          }, {
+              breakpoint: "1280px",
+              width: "420px"
+          }, {
+              breakpoint: "1600px",
+              width: "520px"
+          } ]
+      })
+  </script>
+<!-- Stats -->
+<!-- Google Analytics Code --> 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TVB2JDQN4F" type="550aa69a1f33a38f591ffa10-text/javascript"></script>
+<script type="550aa69a1f33a38f591ffa10-text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TVB2JDQN4F');
+</script>
+   <!-- End of Google Analytics Code -->
+<div align="center">   
+<table width="350px">
+<tr>
+<td>   
+<script type="550aa69a1f33a38f591ffa10-text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+<!-- <script async src="https://cse.google.com/cse.js?cx=partner-pub-4999180642090966:3138814113">
+</script> -->
+<!-- <div class="gcse-searchbox-only"></div> -->
+<td>
+</tr>
+</table>
+</div>
+
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="550aa69a1f33a38f591ffa10-|49" defer></script></body>
+<!-- Cached 20230930104139 -->
+</html>
